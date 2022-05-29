@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabh
-- 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning computer vision and NLP
+- 👀 I’m interested in Machine learning and AI
+- 🌱 I’m currently learning Computer Vision and NLP
 - 💞️ I’m looking to collaborate on any field of research involving machine learning and AI
 
 
